@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Algorithms\A01_ValidateMathFormula\bin\Debug\A01_ValidateMathFormula.exe.config
+C:\Users\PC\source\repos\Algorithms\A01_ValidateMathFormula\bin\Debug\A01_ValidateMathFormula.exe
+C:\Users\PC\source\repos\Algorithms\A01_ValidateMathFormula\bin\Debug\A01_ValidateMathFormula.pdb
+C:\Users\PC\source\repos\Algorithms\A01_ValidateMathFormula\obj\Debug\A01_ValidateMathFormula.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Algorithms\A01_ValidateMathFormula\obj\Debug\A01_ValidateMathFormula.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Algorithms\A01_ValidateMathFormula\obj\Debug\A01_ValidateMathFormula.exe
+C:\Users\PC\source\repos\Algorithms\A01_ValidateMathFormula\obj\Debug\A01_ValidateMathFormula.pdb
